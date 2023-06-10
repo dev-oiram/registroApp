@@ -10,7 +10,7 @@
         <Usuarios />
       </b-tab>
       <b-tab title="Logs">
-        Logs
+        <logs />
       </b-tab>
     </b-tabs>
 
@@ -20,6 +20,7 @@
 <script>
 import Formulario from '@/components/Formulario.vue';
 import usuarios from '@/components/Usuarios.vue';
+import logs from '@/components/Logs.vue'
 
 export default {
   data() {
@@ -27,7 +28,8 @@ export default {
   },
   components: {
     Formulario,
-    usuarios
+    usuarios,
+    logs
   }
 };
 </script>
