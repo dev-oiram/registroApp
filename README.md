@@ -4,6 +4,7 @@ Aplicacion en Nuxt para generar registros de usuarios con informacion basica: Cl
 
 - Se agrega pestaña para registro
 - Nueva pestaña para visualizar los usuarios registrados
+- El proyecto funciona con el endpoint en este [repositorio](https://github.com/dev-oiram/registroAPI)
 
 ## Instalación
 
